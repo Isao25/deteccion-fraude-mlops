@@ -1,0 +1,23 @@
+# --- Datos (pesados, no se versionan; descargar de Kaggle o Drive) ---
+creditcard.csv
+*.csv
+data/
+
+# --- MLflow (se regeneran al ejecutar) ---
+mlruns/
+mlflow.db
+mlartifacts/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# --- Entornos virtuales ---
+venv/
+.venv/
+env/
+edaenv/
+
+# --- Sistema operativo ---
+.DS_Store

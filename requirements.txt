@@ -1,0 +1,9 @@
+# Dependencias del proyecto — Detección de Fraude con MLflow
+# Instalar con:  pip install -r requirements.txt
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+mlflow
